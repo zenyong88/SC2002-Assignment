@@ -163,6 +163,7 @@ public class CompanyRepOpportunityPage extends Page{
             System.out.println("Closing Date: " + opp.getClosingDate());
             System.out.println("Number of Slots: " + opp.getNumSlot());
             System.out.println("Visible: " + opp.getVisibility());
+            System.out.println("Status: " + opp.getStatus());
             System.out.println("---------------------------");
         }
     }

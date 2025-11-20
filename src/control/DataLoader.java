@@ -90,7 +90,6 @@ public class DataLoader {
                                                 Integer.parseInt(parts[10]),
                                                 Boolean.parseBoolean(parts[11]));
                 
-                System.out.println(o.getOpportunityID());
                 repInCharge.addOpportunity(o);
                 db.addOpportunity(o);
             }

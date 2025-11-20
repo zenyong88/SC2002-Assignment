@@ -1,4 +1,4 @@
-CAREERSTAFF,sng001,Dr. Sng Hui Lin,CCDS,C1
+CAREERSTAFF,sng001,Dr. Sng Hui Lin,CCDS,password
 CAREERSTAFF,tan002,Mr. Tan Boon Kiat,CCDS,password
 STUDENT,U2310001A,Tan Wei Ling,CS,1,password
 STUDENT,U2310002B,Ng Jia Hao,DSAI,2,password
@@ -6,5 +6,3 @@ STUDENT,U2310003C,Lim Yi Xuan,CE,3,password
 STUDENT,U2310004D,Chong Zhi Hao,CS,4,password
 STUDENT,U2310005E,Wong Shu Hui,DSAI,3,password
 STUDENT,U2310006F,Yang Shi Lin,CE,1,password
-COMPANYREP,abc@123,abc,123,HR,pos,aaa
-COMPANYREP,ghi@789,ghi,789,hr,a,password
