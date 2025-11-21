@@ -45,7 +45,7 @@ public class StudentApplicationPage extends Page {
                     }
                     if(success.isEmpty()){
                         System.out.println("No successful applications to accept.");
-                        return;
+                        break;
                     }
                     System.out.println("Which application would you like to accept?");
                     for (Application app : success) {
@@ -54,13 +54,21 @@ public class StudentApplicationPage extends Page {
                     System.out.println("Once you accept an application, the other. The other applications will be removed.");
                     System.out.println("Enter the number corresponding to the application you want to accept (or anything else to cancel): ");
                     
-                    int appChoice = getNumericInput(success.size());
-
-                    if (appChoice < 1 || appChoice > success.size()) {
+                    String appChoice = scanner.nextLine();
+                    try {
+                        Integer.parseInt(appChoice);
+                    } catch (NumberFormatException e) {
                         System.out.println("No application selected.");
-                        return;
+                        break;
                     }
-                    Application selectedApp = success.get(appChoice - 1);
+
+                    int appChoiceInt = Integer.parseInt(appChoice);
+
+                    if (appChoiceInt < 1 || appChoiceInt > success.size()) {
+                        System.out.println("No application selected.");
+                        break;
+                    }
+                    Application selectedApp = success.get(appChoiceInt - 1);
                     acceptPlacement(student, selectedApp.getApplicationID());
                     break;
                 case 4:

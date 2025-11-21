@@ -29,6 +29,7 @@ public class ApplicationManager {
         Application app = new Application(opportunityID + student.getUserID(), student, opp, ApplicationStatus.PENDING, false, false);
         db.addApplication(app);
         student.addApplication(app);
+        opp.addApplication(app);
         return true;
     }
     public boolean updateStatus(String applicationID, ApplicationStatus applicationStatus) {
