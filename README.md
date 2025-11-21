@@ -34,7 +34,7 @@ java -cp bin boundary.App
 
 | Name                              | Matric Number  | GitHub                                                    |
 |-----------------------------------|----------------|-----------------------------------------------------------|
-| Chu Heng Yi Terence               | Uxxxxxxxx      | [choochootrain23](https://github.com/choochootrain23)     |
+| Chu Heng Yi Terence               | U2423823G      | [choochootrain23](https://github.com/choochootrain23)     |
 | Tan Chun Ee, Jovan                | Uxxxxxxxx      | [Wyvenroff](https://github.com/Wyvenroff)                 |
 | Wee Kiat Ming, Nicholas           | Uxxxxxxxx      | [wkmNicholas](https://github.com/wkmNicholas)             |
 | Wong Xue Qi                       | Uxxxxxxxx      | [xq-wong](https://github.com/xq-wong)                     |
