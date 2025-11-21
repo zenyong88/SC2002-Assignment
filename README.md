@@ -19,7 +19,7 @@ SC2002 AY25-26 Semester 1 | Lab Group: SCE2 | Group: 2
 
 ## Links
 * [Main Page](https://github.com/zenyong88/SC2002-Assignment)
-* [Report](put report pdf here)
+* [Report](https://github.com/zenyong88/SC2002-Assignment/blob/main/Report.pdf)
 * [Class Diagram & Sequence Diagram](https://github.com/zenyong88/SC2002-Assignment/tree/main/uml%20class%20diagram)
 * [Javadoc](https://github.com/zenyong88/SC2002-Assignment/tree/main/docs)
 
@@ -37,5 +37,5 @@ java -cp bin boundary.App
 | Chu Heng Yi Terence               | U2423823G      | [choochootrain23](https://github.com/choochootrain23)     |
 | Tan Chun Ee, Jovan                | U2421171H      | [Wyvenroff](https://github.com/Wyvenroff)                 |
 | Wee Kiat Ming, Nicholas           | U2440055F      | [wkmNicholas](https://github.com/wkmNicholas)             |
-| Wong Xue Qi                       | U2421172K      | [xq-wong](https://github.com/xq-wong)                     |
+| Wong Xueqi                        | U2421172K      | [xq-wong](https://github.com/xq-wong)                     |
 | Yong Zi Hong                      | U2520642E      | [zenyong88](https://github.com/zenyong88)                 |
