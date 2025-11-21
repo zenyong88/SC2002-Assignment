@@ -36,6 +36,6 @@ java -cp bin boundary.App
 |-----------------------------------|----------------|-----------------------------------------------------------|
 | Chu Heng Yi Terence               | U2423823G      | [choochootrain23](https://github.com/choochootrain23)     |
 | Tan Chun Ee, Jovan                | Uxxxxxxxx      | [Wyvenroff](https://github.com/Wyvenroff)                 |
-| Wee Kiat Ming, Nicholas           | Uxxxxxxxx      | [wkmNicholas](https://github.com/wkmNicholas)             |
+| Wee Kiat Ming, Nicholas           | U2440055F      | [wkmNicholas](https://github.com/wkmNicholas)             |
 | Wong Xue Qi                       | Uxxxxxxxx      | [xq-wong](https://github.com/xq-wong)                     |
 | Yong Zi Hong                      | U2520642E      | [zenyong88](https://github.com/zenyong88)                 |
